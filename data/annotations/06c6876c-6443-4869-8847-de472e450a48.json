@@ -112,6 +112,31 @@
         }
       ],
       "uuid": "8f8623d1-4a40-4f78-b935-a324892d0519"
+    },
+    {
+      "start_time": 470,
+      "end_time": 644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shock theatre would air at night. The most famous show host was John Zachary because of his spooky dialogues and characters. He knew Dick Clark who introduced him to Cameo Parkway Records. In 1958, they created a record called \"Dinner with Drack,\" which reached number six on the Billboard charts. The national success boosted Zachary's image as a campy horror icon. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Horror Culture"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Production"
+        }
+      ],
+      "uuid": "8f2cdc33-bd62-474a-ac9f-1d94e1e17251"
     }
   ],
   "set": "Default",
