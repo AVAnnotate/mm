@@ -485,6 +485,27 @@
         }
       ],
       "uuid": "455df168-2d0a-4265-9a32-3e9753fe1dd8"
+    },
+    {
+      "start_time": 2105,
+      "end_time": 2520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As years went on, the Monster Mash lost its popularity. Pickett's original hit has cemented its place in the music industry and in the heart of many generations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Impact",
+          "tag": "Career Trajectory"
+        }
+      ],
+      "uuid": "4e66e93a-da4d-4d9b-b86f-83295c5f3756"
     }
   ],
   "set": "Default",
