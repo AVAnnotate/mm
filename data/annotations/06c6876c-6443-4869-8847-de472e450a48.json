@@ -397,6 +397,31 @@
         }
       ],
       "uuid": "9a893d5e-dd8d-4b7f-84d8-12e6ebaa831d"
+    },
+    {
+      "start_time": 2057,
+      "end_time": 2093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A new era for horror films was born in the late 60s and early 70s with \"Rosemary's Baby\" and \"The Exorcist.\" Universal has had its fair share of attempts to reboot the OG monsters over the years, most notably in the 2004 film \"Van Helsing\" featuring Hugh Jackman, which featured Frankenstein, Dracula, and The Werewolf."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Horror Culture"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Production"
+        }
+      ],
+      "uuid": "98526aa5-2d82-4131-873a-c4938a0b15d5"
     }
   ],
   "set": "Default",
