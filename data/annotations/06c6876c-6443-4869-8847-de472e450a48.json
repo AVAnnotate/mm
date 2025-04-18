@@ -422,6 +422,27 @@
         }
       ],
       "uuid": "98526aa5-2d82-4131-873a-c4938a0b15d5"
+    },
+    {
+      "start_time": 2094,
+      "end_time": 2120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the spring of 1973, the \"Monster Mash\" mysteriously reappeared on the Hot 100 and stayed on the charts for 20 weeks, reaching the top ten in the middle of August. The song got banned on the BBC because it was \"too morbid.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Impact",
+          "tag": "Career Trajectory"
+        }
+      ],
+      "uuid": "9397ec39-09be-4210-93c1-251e036e3259"
     }
   ],
   "set": "Default",
