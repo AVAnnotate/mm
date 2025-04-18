@@ -443,6 +443,27 @@
         }
       ],
       "uuid": "9397ec39-09be-4210-93c1-251e036e3259"
+    },
+    {
+      "start_time": 2121,
+      "end_time": 2150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bobby Pickett came out with a song called \"Monsters Holiday\" for Christmas, and the record landed number thirty on the charts. The song sounds like the original \"Monster Mash,\" but with sleigh bells."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Impact",
+          "tag": "Career Trajectory"
+        }
+      ],
+      "uuid": "f7f01d8b-ac17-42b8-b579-35c51419bbe2"
     }
   ],
   "set": "Default",
