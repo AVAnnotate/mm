@@ -179,6 +179,27 @@
         }
       ],
       "uuid": "d5f366a2-4216-4154-b037-6a6cf523e134"
+    },
+    {
+      "start_time": 1167,
+      "end_time": 1380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Mashed Potato Time,\" performed by DD Sharp, was inspired by \"Please Mr. Postman.\" There were many versions of \"The Mash Potato Time\" from artists like the Contours, Chris Kenner, Connie Francis, and Sam Cook. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Song Origin"
+        }
+      ],
+      "uuid": "862cf7aa-3438-4e75-8f45-15e7689fcb48"
     }
   ],
   "set": "Default",
