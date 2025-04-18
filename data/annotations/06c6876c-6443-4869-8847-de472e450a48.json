@@ -330,6 +330,31 @@
         }
       ],
       "uuid": "3cd8adcf-e9f9-4143-999c-db9e152f7504"
+    },
+    {
+      "start_time": 1816,
+      "end_time": 1915,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The theme for The Munsters has been recorded and re-recorded over 150 times. It has been recorded or sampled by the Boston Pops, the London Philharmonic, and Bryan Setzer, who uses it as an opener for his shows. Even the band Fall Out Boy used The Munsters theme for their song \"Uma Thurman.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Horror Culture"
+        },
+        {
+          "category": "Structure",
+          "tag": "Hook"
+        }
+      ],
+      "uuid": "37289466-0180-4c6a-b57d-cc60bad50003"
     }
   ],
   "set": "Default",
