@@ -305,6 +305,31 @@
         }
       ],
       "uuid": "e0c18d14-982f-4d41-be30-a122896a24c7"
+    },
+    {
+      "start_time": 1751,
+      "end_time": 1815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After the Monster Mash craze, Universal started to produce comedies like The Addams Family and The Munsters using old monster sets. Music and monsters start melding together later, creating a classic theme songs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Horror Culture"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Production"
+        }
+      ],
+      "uuid": "3cd8adcf-e9f9-4143-999c-db9e152f7504"
     }
   ],
   "set": "Default",
