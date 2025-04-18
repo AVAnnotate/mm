@@ -70,6 +70,27 @@
         }
       ],
       "uuid": "9cc53635-0a67-4866-932a-21ad1a0efae6"
+    },
+    {
+      "start_time": 266,
+      "end_time": 395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The films were very successful and led to many sequels. For example, Bride of Frankenstein and Draculas Daugter. There were also a lot of cross-over films with the monster characters."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Horror Culture"
+        }
+      ],
+      "uuid": "cd5d5708-9a91-45bf-96bc-3ff25d6b1a40"
     }
   ],
   "set": "Default",
