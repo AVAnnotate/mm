@@ -200,6 +200,27 @@
         }
       ],
       "uuid": "862cf7aa-3438-4e75-8f45-15e7689fcb48"
+    },
+    {
+      "start_time": 1381,
+      "end_time": 1395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the summer of 1962, Bobby Pickett decided to jump on the bandwagon and make a record about movie monsters."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Song Origin"
+        }
+      ],
+      "uuid": "7bc41f6e-50e2-42a1-8731-8f2e983e21dc"
     }
   ],
   "set": "Default",
