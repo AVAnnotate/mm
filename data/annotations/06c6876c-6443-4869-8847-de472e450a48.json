@@ -91,6 +91,27 @@
         }
       ],
       "uuid": "cd5d5708-9a91-45bf-96bc-3ff25d6b1a40"
+    },
+    {
+      "start_time": 420,
+      "end_time": 467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This era of films was described as shock theatre."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Horror Culture"
+        }
+      ],
+      "uuid": "8f8623d1-4a40-4f78-b935-a324892d0519"
     }
   ],
   "set": "Default",
