@@ -242,6 +242,27 @@
         }
       ],
       "uuid": "b7495971-bb70-4013-aa3d-5ac3ecb5a095"
+    },
+    {
+      "start_time": 1430,
+      "end_time": 1435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Whatever happened to my Transylvanian twist?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        }
+      ],
+      "uuid": "a1e2d1ab-55c0-4aca-b990-13fd92d1d295"
     }
   ],
   "set": "Default",
