@@ -464,6 +464,27 @@
         }
       ],
       "uuid": "f7f01d8b-ac17-42b8-b579-35c51419bbe2"
+    },
+    {
+      "start_time": 2151,
+      "end_time": 2104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"They were up to no good, didn't act like good monsters should. They found themselves a new play, they planned to rob Santa's sleigh. They were making a list and checking it twice.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        }
+      ],
+      "uuid": "455df168-2d0a-4265-9a32-3e9753fe1dd8"
     }
   ],
   "set": "Default",
