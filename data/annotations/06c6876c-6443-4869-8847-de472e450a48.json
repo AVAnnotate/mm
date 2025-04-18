@@ -221,6 +221,27 @@
         }
       ],
       "uuid": "7bc41f6e-50e2-42a1-8731-8f2e983e21dc"
+    },
+    {
+      "start_time": 1396,
+      "end_time": 1430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The record has the same airwaves and groove as \"Mashed Potato Time/\" The song is about all of the iconic monsters having a party and learning a new dance at Frankentein's house. In the song, Pickett largely impersonates Boris Karloff, except for one line in which he impersonates Bella Lasodi, the Universal Dracula. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Song Origin"
+        }
+      ],
+      "uuid": "b7495971-bb70-4013-aa3d-5ac3ecb5a095"
     }
   ],
   "set": "Default",
