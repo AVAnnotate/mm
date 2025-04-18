@@ -263,6 +263,27 @@
         }
       ],
       "uuid": "a1e2d1ab-55c0-4aca-b990-13fd92d1d295"
+    },
+    {
+      "start_time": 1435,
+      "end_time": 1536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Monster Mash hit number 1 in October of 1962."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Impact",
+          "tag": "Career Trajectory"
+        }
+      ],
+      "uuid": "849cfd7b-9c1a-4c5d-af37-51d5f771b669"
     }
   ],
   "set": "Default",
