@@ -158,6 +158,27 @@
         }
       ],
       "uuid": "dddb592f-a906-4480-9f86-1d6e64939a72"
+    },
+    {
+      "start_time": 958,
+      "end_time": 1165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The year 1962 was the beginning of dance music in the U.S. For example, the Holly Golly, A Monkey, and the Watusi were all hit dance records. Chubby Checker's \"The Twist\" ignited the whole phenomenon, followed by \"The Mashed Potato Time\" performed by DD Sharp. James Brown debuted \"(Do The) Mashed Potatoes,\" which became one of the top ten R&B songs in the U.S."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Song Origin"
+        }
+      ],
+      "uuid": "d5f366a2-4216-4154-b037-6a6cf523e134"
     }
   ],
   "set": "Default",
