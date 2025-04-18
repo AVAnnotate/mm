@@ -355,6 +355,27 @@
         }
       ],
       "uuid": "37289466-0180-4c6a-b57d-cc60bad50003"
+    },
+    {
+      "start_time": 1918,
+      "end_time": 1929,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under Universal Pictures had a few more years creating monsters. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Horror Culture"
+        }
+      ],
+      "uuid": "e02ec522-60b2-49c3-8b93-3ad3e9ad4721"
     }
   ],
   "set": "Default",
