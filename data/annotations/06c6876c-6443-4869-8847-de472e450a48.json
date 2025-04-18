@@ -284,6 +284,27 @@
         }
       ],
       "uuid": "849cfd7b-9c1a-4c5d-af37-51d5f771b669"
+    },
+    {
+      "start_time": 1536,
+      "end_time": 1751,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After Monster Mash was written by Bobby Pickett and Lennny Capezi, they had to look for labels to produce it. They got rejected by many labels until they came across Gary S. Praxton, the head of Guard Packs Record Label. Praxton added some finishing touches like sounds of a coffin opening and a bubbling cauldron, which gave the song some character. \"Monster Mash\" went number one on the Hot 100 for two weeks in October."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Impact",
+          "tag": "Career Trajectory"
+        }
+      ],
+      "uuid": "e0c18d14-982f-4d41-be30-a122896a24c7"
     }
   ],
   "set": "Default",
