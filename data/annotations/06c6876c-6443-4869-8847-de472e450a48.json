@@ -137,6 +137,27 @@
         }
       ],
       "uuid": "8f2cdc33-bd62-474a-ac9f-1d94e1e17251"
+    },
+    {
+      "start_time": 672,
+      "end_time": 957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bobby Pickett came up with the idea of Monster Mash. He was an aspiring actor and comedian who specialized in impressions. Prior to his major success, Pickett impersonated film actors as part of a group called the Cordials. Pickett began to gain traction when he impersonated Boris Karloff."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Song Origin"
+        }
+      ],
+      "uuid": "dddb592f-a906-4480-9f86-1d6e64939a72"
     }
   ],
   "set": "Default",
