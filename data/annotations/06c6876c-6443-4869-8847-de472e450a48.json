@@ -376,6 +376,27 @@
         }
       ],
       "uuid": "e02ec522-60b2-49c3-8b93-3ad3e9ad4721"
+    },
+    {
+      "start_time": 1930,
+      "end_time": 2056,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In 1963, the Mummy model kit came out, followed by other major successes like The Creature from Black Lagoon, The Hunchback of Notre Dame, and Godzilla. In 1966, Aurora released their final monster model kits in collaboration with Famous Monsters of Filmland Magazine. It features new monsters: Mary Shelley's Frankenstein, Bram Stoker's Dracula, etc. These characters did not live up to success as the OG monsters from the shock theatre era."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Horror Culture"
+        }
+      ],
+      "uuid": "9a893d5e-dd8d-4b7f-84d8-12e6ebaa831d"
     }
   ],
   "set": "Default",
