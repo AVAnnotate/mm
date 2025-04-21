@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Bibliography",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "bibliography",
+  "created_at": "2025-04-21T17:27:31.605Z",
+  "created_by": "Alyssaf-j",
+  "updated_at": "2025-04-21T17:27:31.605Z",
+  "updated_by": "Alyssaf-j"
+}
