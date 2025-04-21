@@ -4,14 +4,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This project contains audio and video events related to Bobby Pickett's 1962 Halloween hit, \"The Monster Mash,\" and can be used to understand the variety of AVAnnotate features available for project authors. Each page is instructive, which is indicated by the sections titled "
+          "text": "This project contains audio and video events related to Bobby Pickett's 1962 Halloween hit, \"The Monster Mash,\" and can be used to understand the variety of AVAnnotate features available for project authors. Each page is first instructive, which is indicated at the top by the section entitled "
         },
         {
           "text": "Documentation",
           "bold": true
         },
         {
-          "text": ". The other section of introductory content demonstrates how one would narrate their project to website users and/or other intended audiences– titled "
+          "text": ". The other section of introductory content demonstrates how one would narrate their project to website users and/or other intended audiences– entitled "
         },
         {
           "text": "Narrative",
@@ -158,7 +158,7 @@
   "created_at": "2024-12-07T21:56:56.467Z",
   "created_by": "saamturner",
   "title": "The Monster Mash - Project Introduction",
-  "updated_at": "2025-04-21T14:42:20.780Z",
+  "updated_at": "2025-04-21T14:57:25.260Z",
   "updated_by": "Alyssaf-j",
   "autogenerate": {
     "enabled": false,
