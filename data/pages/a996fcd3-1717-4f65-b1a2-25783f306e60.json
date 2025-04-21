@@ -4,7 +4,41 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The following clip of “Bobby Pickett on New York at Night (1991) will be analyzed further as a single video event with annotations."
+          "text": "Documentation:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The page was manually generated from the single video event: “Bobby Pickett on New York at Night\" (1991). The video clip is of the interview of Bobby Pickett before the performance of the \"Monster Mash\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Narrative:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following clip of “Bobby Pickett on New York at Night\" (1991) will be analyzed further as a single video event with annotations. The clip focuses on the brief interview of Bobby Pickett before his performance, which demonstrates Pickett's reception by musical greats, James Brown and Elvis Presley. He concludes with a joke, that him and his song outlived Elvis even if it was a one hit wonder. The host mentions James Brown claimed that the \"Monster Mash\" was the \"grandaddy of all rap records\", to which Pickett jokingly responds that the better comment was from Elvis, claiming it was the \"worst thing he ever heard\". Ultimately, the jovial treatment of Pickett's story and song makes sense, especially for a talk show decades after the original performance. "
         }
       ]
     },
@@ -22,14 +56,15 @@
       "includes": [
         "media",
         "annotations",
-        "label",
         "description"
       ],
       "children": [
         {
           "text": ""
         }
-      ]
+      ],
+      "end": 82,
+      "file": "20e09384-7fd0-4ce2-9216-b9197c16c081"
     },
     {
       "type": "paragraph",
@@ -48,6 +83,6 @@
   "slug": "single-video-event-annotations",
   "created_at": "2025-03-04T19:01:49.004Z",
   "created_by": "leiahnb2",
-  "updated_at": "2025-04-02T21:05:28.969Z",
-  "updated_by": "leiahnb2"
+  "updated_at": "2025-04-21T16:14:01.481Z",
+  "updated_by": "Alyssaf-j"
 }
