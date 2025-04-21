@@ -4,7 +4,63 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The following clips of “Monster Mash” from Alvin and the Chipmunks: Trick or Treason and “ABC for Kids Video Hits: Ross Higgins- Monster Mash” will be compared to one another further analyzing their appeal to a younger audience. "
+          "text": "Documentation:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This custom page was manually built, making use of clips from 2 events with no annotations (:“Monster Mash” from "
+        },
+        {
+          "text": "Alvin and the Chipmunks: Trick or Treason",
+          "italic": true
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "ABC for Kids Video Hits",
+          "italic": true
+        },
+        {
+          "text": ": \"Ross Higgins- Monster Mash”). From there, images were uploaded to further analyze the events."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Narrative:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following clips of “Monster Mash” from "
+        },
+        {
+          "text": "Alvin and the Chipmunks: Trick or Treason",
+          "italic": true
+        },
+        {
+          "text": ", and “ABC for Kids Video Hits: Ross Higgins- Monster Mash”, will be compared to one another, further analyzing their appeal to a younger audience. Profile biographies for each of the chipmunks (Alvin, Simon, Theodore), reveal a unique positioning for the iconic trio presenting a Halloween classic. Comparing the imagery and performances from the ABC version, the chipmunks follow similar monster-like characterizations. They upkeep some of their established roles, but Simon takes the lead role unlike before for this performance."
         }
       ]
     },
@@ -242,7 +298,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The cover is performed by Ross Higgins (male in scientist costume), an Australian Entertainer for the album Seven from the 0-9 series and ABC for Kids Video Hits in 2006.  "
+          "text": "The cover is performed by Ross Higgins (male in scientist costume), an Australian Entertainer for the album "
+        },
+        {
+          "text": "Seven",
+          "italic": true
+        },
+        {
+          "text": " from the 0-9 series and \"ABC for Kids Video Hits\" (2006).  "
         }
       ]
     }
@@ -255,6 +318,6 @@
   "slug": "custom-page-with-images-events-no-annota",
   "created_at": "2025-02-24T18:46:34.702Z",
   "created_by": "saamturner",
-  "updated_at": "2025-04-11T15:51:25.241Z",
-  "updated_by": "DeztyneeHall06"
+  "updated_at": "2025-04-21T15:42:36.357Z",
+  "updated_by": "Alyssaf-j"
 }
