@@ -4,6 +4,48 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "This project contains audio and video events related to Bobby Pickett's 1962 Halloween hit, \"The Monster Mash,\" and can be used to understand the variety of AVAnnotate features available for project authors. Each page is instructive, which is indicated by the sections titled "
+        },
+        {
+          "text": "Documentation",
+          "bold": true
+        },
+        {
+          "text": ". The other section of introductory content demonstrates how one would narrate their project to website users and/or other intended audiences– titled "
+        },
+        {
+          "text": "Narrative",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Narrative",
+          "bold": true
+        },
+        {
+          "text": ":"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Bobby \"Boris\" Pickett and the Crypt-Kickers's 1962 novelty Halloween song, \"Monster Mash”, is arguably one of the main catalysts for the genre of American Halloween music. Dance fads like the “Mashed Potato” inspired Pickett, an aspiring actor in Los Angeles at the time, to focus his skillset on the recording of the “Monster Mash”. The song was released as a single in August on Gary S. Paxton's Garpax Records label. A full-length LP was also created, entitled The Original Monster Mash, which contained other monster-themed songs. However, the \"Monster Mash\" was the only one to become number one on the Billboard Hot 100 chart that year."
         }
       ]
@@ -116,8 +158,8 @@
   "created_at": "2024-12-07T21:56:56.467Z",
   "created_by": "saamturner",
   "title": "The Monster Mash - Project Introduction",
-  "updated_at": "2025-04-05T23:52:42.304Z",
-  "updated_by": "leiahnb2",
+  "updated_at": "2025-04-21T14:42:20.780Z",
+  "updated_by": "Alyssaf-j",
   "autogenerate": {
     "enabled": false,
     "type": "home"
