@@ -4,7 +4,47 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The following clips of \"ABC For Kids Video Hits: Ross Higgins - Monster Mash\" will be analyzed further through the comparison of the first and fourth choruses of the performance. "
+          "text": "Documentation:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The page was manually generated from a single video event: "
+        },
+        {
+          "text": "ABC For Kids Video Hits",
+          "italic": true
+        },
+        {
+          "text": ": \"Ross Higgins - Monster Mash\". From there, two parts of the video are compared as clips of the first chorus and the last. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Narrative:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following clips of "
+        },
+        {
+          "text": "ABC For Kids Video Hits",
+          "italic": true
+        },
+        {
+          "text": ": \"Ross Higgins - Monster Mash\" will be analyzed further through the comparison of the first and fourth choruses of the performance. The first is introductory, just of kids singing along. Contrastingly, the fourth chorus presents the kids doing a choreographed dance they presumably learned from the repetition of the song's chorus. Ultimately, the impression that the song will teach listeners to do the \"Monster Mash\" is established."
         }
       ]
     },
@@ -20,9 +60,7 @@
       "type": "event-comparison",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "annotations"
       ],
       "event1": {
         "uuid": "ec00b232-1a3b-4269-8344-e6bd639c04e1",
@@ -59,6 +97,6 @@
   "slug": "comparison-clips-single-video-event-annot",
   "created_at": "2025-03-02T19:37:07.740Z",
   "created_by": "leiahnb2",
-  "updated_at": "2025-04-02T21:04:01.982Z",
-  "updated_by": "leiahnb2"
+  "updated_at": "2025-04-21T15:57:43.378Z",
+  "updated_by": "Alyssaf-j"
 }
