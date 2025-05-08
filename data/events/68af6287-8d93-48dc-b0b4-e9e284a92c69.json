@@ -14,7 +14,41 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "“The Monster Mash: Everything You Didn’t Know” is a podcast episode from the show “Too Much Information” in 2024. The following audio is by Alex Heigl and Jordan Runtagh. The annotations of this podcast episode are organized by a summarization of Heigl and Runtagh’s conversation and the themes of Boris Pickett’s personal life, career trajectory, influences, horror culture, and the song’s production and origin. "
+          "text": "Documentation",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following AV item, a podcast, was uploaded as an audio-event to be annotated for further analysis of the \"Monster Mash\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Narrative",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“The Monster Mash: Everything You Didn’t Know” is a podcast episode created by the show “Too Much Information” in 2024. The following audio is by Alex Heigl and Jordan Runtagh. The annotations of this podcast episode are organized by a summarization of Heigl and Runtagh’s conversation and the themes of Boris Pickett’s personal life, career trajectory, influences, horror culture, and the song’s production and origin. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     }
@@ -24,6 +58,9 @@
   "label": "The Monster Mash: Everything You Didn't Know (2024)",
   "created_at": "2025-02-07T01:42:43.666Z",
   "created_by": "saamturner",
-  "updated_at": "2025-04-03T17:54:04.382Z",
-  "updated_by": "leiahnb2"
+  "updated_at": "2025-05-08T19:51:15.671Z",
+  "updated_by": "Alyssaf-j",
+  "av_file_order": [
+    "a1089276-833f-4a6b-87f4-4c81e75e79cf"
+  ]
 }
