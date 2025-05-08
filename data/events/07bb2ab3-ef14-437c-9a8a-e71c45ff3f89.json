@@ -14,6 +14,32 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Documentation",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following AV item, a cover of the “Monster Mash”, was uploaded as an audio-event to be annotated for further analysis of the song’s influence on later renditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Narrative",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "\"Monster Mash\" is performed by The Misfits and released in 1999 by Misfits Records. The following audio is from their studio recording, which showcases the band's horror-punk reinterpretation of the 1962 classic. The annotations are organized by the song’s transcription and musical elements. "
         }
       ]
@@ -24,6 +50,9 @@
   "label": "The Misfits cover \"The Monster Mash\" (1998)",
   "created_at": "2024-12-11T19:20:12.326Z",
   "created_by": "saamturner",
-  "updated_at": "2025-04-11T15:48:40.572Z",
-  "updated_by": "DeztyneeHall06"
+  "updated_at": "2025-05-08T19:55:57.646Z",
+  "updated_by": "Alyssaf-j",
+  "av_file_order": [
+    "324e2574-92bc-4d76-9731-8d72f57b97ca"
+  ]
 }
