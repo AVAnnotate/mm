@@ -22,15 +22,6 @@
       "children": [
         {
           "bold": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "bold": true,
           "text": "Narrative:"
         }
       ]
@@ -90,6 +81,6 @@
   "slug": "comparison-clips-multiple-video-events-an",
   "created_at": "2025-04-21T17:23:34.276Z",
   "created_by": "Alyssaf-j",
-  "updated_at": "2025-05-08T19:36:44.567Z",
+  "updated_at": "2025-05-10T23:34:55.775Z",
   "updated_by": "Alyssaf-j"
 }
