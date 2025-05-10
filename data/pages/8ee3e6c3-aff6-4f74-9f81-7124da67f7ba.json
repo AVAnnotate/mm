@@ -28,15 +28,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "bold": true,
           "text": "Narrative:"
         }
@@ -63,8 +54,7 @@
       "includes": [
         "media",
         "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "event1": {
         "uuid": "07bb2ab3-ef14-437c-9a8a-e71c45ff3f89"
@@ -111,6 +101,6 @@
   "slug": "comparison-clips-multiple-audio-events-an",
   "created_at": "2025-03-13T01:36:48.018Z",
   "created_by": "naponigore",
-  "updated_at": "2025-04-21T17:01:20.288Z",
+  "updated_at": "2025-05-10T23:33:17.765Z",
   "updated_by": "Alyssaf-j"
 }
