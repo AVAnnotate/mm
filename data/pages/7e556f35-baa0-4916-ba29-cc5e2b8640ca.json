@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Comparison #1: Origins of Monster Mash ",
+          "text": "Documentation",
           "bold": true
         }
       ]
@@ -13,7 +13,31 @@
       "type": "paragraph",
       "children": [
         {
-          "bold": true,
+          "text": "The page was manually generated from a single audio event event: \"The Monster Mash: Everything You Didn't Know\" by the Too Much Information (TMI) Podcast. From there, two parts of the audio are compared as clips."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Narrative:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following audio clips of \"The Monster Mash: Everything You Didn't Know\" (2024) will be analyzed further through the comparison of the first and fourth parts of the podcast. The first part is more introductory, while the fourth is much more detailed analysis."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -519,6 +543,6 @@
   "slug": "comparison-clips-single-audio-event-annot",
   "created_at": "2025-03-13T17:02:14.876Z",
   "created_by": "DeztyneeHall06",
-  "updated_at": "2025-03-31T15:44:45.101Z",
-  "updated_by": "naponigore"
+  "updated_at": "2025-05-12T20:44:00.642Z",
+  "updated_by": "Alyssaf-j"
 }
