@@ -46,9 +46,7 @@
       "type": "event-comparison",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "annotations"
       ],
       "event1": {
         "uuid": "68af6287-8d93-48dc-b0b4-e9e284a92c69",
@@ -543,6 +541,6 @@
   "slug": "comparison-clips-single-audio-event-annot",
   "created_at": "2025-03-13T17:02:14.876Z",
   "created_by": "DeztyneeHall06",
-  "updated_at": "2025-05-12T20:44:00.642Z",
-  "updated_by": "Alyssaf-j"
+  "updated_at": "2025-05-12T21:40:23.102Z",
+  "updated_by": "tanyaclement"
 }
