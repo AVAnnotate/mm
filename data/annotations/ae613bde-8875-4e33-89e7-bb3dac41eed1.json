@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "KMAQ Title Screen"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "86fa1454-3a22-480e-9818-22efa2adaf20"
+    }
+  ],
   "set": "Default",
   "event_id": "4ceaf867-bf89-4fc4-a27e-1e745fd0d02c",
   "source_id": "c13ee7b8-92cb-4ff4-b133-979e6a345b1f"
