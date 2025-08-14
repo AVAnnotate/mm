@@ -8,12 +8,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "KMAQ Title Screen"
+              "text": "KMAQ-TV Title Screen"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Intro"
+        }
+      ],
       "uuid": "86fa1454-3a22-480e-9818-22efa2adaf20"
     }
   ],
