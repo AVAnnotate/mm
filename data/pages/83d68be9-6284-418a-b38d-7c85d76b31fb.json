@@ -45,7 +45,7 @@
           "italic": true
         },
         {
-          "text": " on American Bandstand (1964) and New York at Night (1991), and Ross Higgins' performance of the song on ABC for Kids (1991) will be used to explore the changing meaning behind a specific lyric of the song. The clips are arranged to allow a side-by-side comparison of Bobby Pickett's two live performances, separated by 27 years. The clip of Ross Higgins' rendition appears below Bobby Pickett's performance for ease of comparison and to highlight the changes in meaning of the lyrics. Focusing on the lyrics about Dracula and his \"Transylvania twist\" highlight the cartoonish stereotypes of Dracula and his Transylvania heritage, parody and satire, and the shift to character comedy. "
+          "text": " on American Bandstand (1964) and New York at Night (1991), and Ross Higgins' performance of the song on ABC for Kids (1991) will be used to explore the changing meaning behind a specific lyric of the song. The clips are arranged to allow a side-by-side comparison of Bobby Pickett's two live performances, separated by 27 years. The clip of Ross Higgins' rendition appears below Bobby Pickett's performance for ease of comparison and to highlight the changes in meaning of the lyrics. Focusing on the lyrics about Dracula and his \"Transylvania twist\" highlights the cartoonish stereotypes of Dracula and his Transylvanian heritage, as well as the use of parody and satire, and the shift towards character comedy. "
         }
       ]
     },
@@ -197,7 +197,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Despite being separated by 27 years, both of Pickett's performances remain relatively similar. "
+          "text": "Despite being separated by 27 years, both of Pickett's performances are quite similar. The main differences lie in the camera work. In the 1964 clip, the cameraperson provides a close-up of Pickett's face, where his exaggerated eye and mouth movements create a humorous yet spooky atmosphere. When he quotes Dracula, he elongates his face and squints to imitate the facial expressions of a cartoonish Dracula. He also employs a stereotypical Dracula accent when quoting the vampire. In his 1991 performance, the cameraperson zooms out, allowing viewers to see his entire body. Instead of relying on facial expressions, Pickett fully uses his arms and body to tell the story of the song. However, Pickett still changes his facial expressions and voice like he did in his 1964 performance. In spite of these differences, the main substance of the lyrics' meanings remains in both performances. Dracula's cry of \"whatever happened to my Transylvania twist?\" is a tongue-in-cheek reference to the Twist, a famous dance fad in the early 1960s. Pickett is poking fun of how quickly dance fads rise and fall. Additionally, these lyrics also highlight the old being pushed out by the new. Dracula and his Transylvania twist are being abandoned for a new craze, the "
+        },
+        {
+          "text": "Monster Mash",
+          "italic": true
+        },
+        {
+          "text": "."
         }
       ]
     },
@@ -229,19 +236,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "There is a noticeable shift in Ross Higgins' performance compared to Pickett's performances. Aside from the larger-scale production with costumes, sets, and dance numbers, Higgins' performance also of these specific lyrics highlights a shift from satire to character comedy. The specific cultural reference to the Twist, although likely to be familiar to parents in the 1990s, likely would be missed by children watching ABC for Kids. Rather than a commentary on the rise and fall of dance crazes, Higgins' performance becomes just a comical complaint from Dracula. The over-the-top Dracula voice by Higgins, coupled with the child playing Dracula wildly shaking his fist, creates a fun cartoon figure rather than a symbol of the outdated. The lyrics become less of a commentary on rapidly changing cultural crazes. Instead, it simply enriches the playful monster party story. "
         }
       ]
     }
   ],
-  "title": "Custom page with clips (non annotations)",
+  "title": "Custom page with clips (no annotations)",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "custom-page-with-clips-non-annotations",
+  "slug": "custom-page-with-clips-no-annotations",
   "created_at": "2025-09-22T05:35:56.560Z",
   "created_by": "raymondhyser",
-  "updated_at": "2025-09-22T17:30:28.108Z",
+  "updated_at": "2025-09-22T18:00:41.897Z",
   "updated_by": "raymondhyser"
 }
