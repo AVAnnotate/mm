@@ -4,16 +4,218 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Documentation:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This custom page was built manually, making use of clips of specific lyrics from 3 events with no annotations (\"Bobby Pickett on American Bandstand (1964),\" \"Bobby Pickett on New York at Night (1991),\" and \"ABC for Kids: Monster Mash (1991)\"). From there, the clips are arranged for aesthetic purposes and to create space for a deeper analysis of the clips."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Narrative:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following clips of Bobby Picket's performances of "
+        },
+        {
+          "text": "Monster Mash",
+          "italic": true
+        },
+        {
+          "text": " on American Bandstand (1964) and New York at Night (1991), and Ross Higgins' performance of the song on ABC for Kids (1991) will be used to explore the changing meaning behind a specific lyric of the song. The clips are arranged to allow a side-by-side comparison of Bobby Pickett's two live performances, separated by 27 years. The clip of Ross Higgins' rendition appears below Bobby Pickett's performance for ease of comparison and to highlight the changes in meaning of the lyrics. Focusing on the lyrics about Dracula and his \"Transylvania twist\" highlight the cartoonish stereotypes of Dracula and his Transylvania heritage, parody and satire, and the shift to character comedy. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lyrics",
+          "bold": true
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "\"Out from his coffin, Drac's voice did ring"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "Seems he was troubled by just one thing"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "Opened the lid and shook his fist"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "And said, 'Whatever happened to my Transylvania twist?'\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "2eb0a261-7f36-444c-a99c-058cd9c41664",
+              "includes": [
+                "media"
+              ],
+              "start": 160,
+              "end": 173,
+              "file": "88f1341b-1bf4-4dbc-a6b2-ae9210704069",
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "6a8566ae-8b27-4b40-b9b0-3f2fedadb37f",
+              "includes": [
+                "media"
+              ],
+              "start": 188,
+              "end": 201,
+              "file": "20e09384-7fd0-4ce2-9216-b9197c16c081",
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Despite being separated by 27 years, both of Pickett's performances remain relatively similar. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "center"
     },
     {
       "uuid": "ec00b232-1a3b-4269-8344-e6bd639c04e1",
       "includes": [
         "media"
       ],
-      "start": 115,
+      "start": 121,
       "end": 128,
       "file": "480c8df5-d297-4b97-a318-5dceb0792820",
       "type": "event",
@@ -30,62 +232,16 @@
           "text": ""
         }
       ]
-    },
-    {
-      "uuid": "6a8566ae-8b27-4b40-b9b0-3f2fedadb37f",
-      "includes": [
-        "media"
-      ],
-      "start": 195,
-      "end": 201,
-      "file": "20e09384-7fd0-4ce2-9216-b9197c16c081",
-      "type": "event",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "uuid": "2eb0a261-7f36-444c-a99c-058cd9c41664",
-      "includes": [
-        "media"
-      ],
-      "start": 167,
-      "end": 173,
-      "file": "88f1341b-1bf4-4dbc-a6b2-ae9210704069",
-      "type": "event",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     }
   ],
-  "title": "Custom page with clips",
+  "title": "Custom page with clips (non annotations)",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "custom-page-with-clips",
+  "slug": "custom-page-with-clips-non-annotations",
   "created_at": "2025-09-22T05:35:56.560Z",
   "created_by": "raymondhyser",
-  "updated_at": "2025-09-22T16:37:52.825Z",
+  "updated_at": "2025-09-22T17:30:28.108Z",
   "updated_by": "raymondhyser"
 }
