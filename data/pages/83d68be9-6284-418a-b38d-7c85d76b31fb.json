@@ -225,9 +225,6 @@
         "media",
         "label"
       ],
-      "start": 121,
-      "end": 128,
-      "file": "480c8df5-d297-4b97-a318-5dceb0792820",
       "type": "event",
       "children": [
         {
@@ -252,6 +249,6 @@
   "slug": "custom-page-with-clips-no-annotations",
   "created_at": "2025-09-22T05:35:56.560Z",
   "created_by": "raymondhyser",
-  "updated_at": "2025-09-22T19:55:42.711Z",
+  "updated_at": "2025-09-30T14:56:11.660Z",
   "updated_by": "raymondhyser"
 }
