@@ -13,20 +13,12 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "bold": true,
+                  "text": "Documentation:"
                 }
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Documentation:",
-          "bold": true
         }
       ]
     },
@@ -66,7 +58,7 @@
           "italic": true
         },
         {
-          "text": " on American Bandstand (1964) and New York at Night (1991), and Ross Higgins' performance of the song on ABC for Kids (1991) will be used to explore the changing meaning of a specific lyric. The clips are arranged to allow a side-by-side comparison of Bobby Pickett's two live performances, separated by 27 years. The clip of Ross Higgins' rendition appears below Bobby Pickett's performance for ease of comparison and to highlight changes in the lyrics' meaning. Focusing on the lyrics about Dracula and his \"Transylvania twist\" highlights the cartoonish stereotypes of Dracula and his Transylvanian heritage, as well as the use of parody and satire, and the shift towards character comedy. "
+          "text": " on American Bandstand (1964) and New York at Night (1991), and Ross Higgins' performance of the song on ABC for Kids (1991) will be used to explore the changing meaning of a specific lyric. The clips are arranged to allow a side-by-side comparison of Bobby Pickett's two live performances, separated by 27 years. The clip of Ross Higgins' rendition appears below Bobby Pickett's performance for ease of comparison and to highlight changes in the lyrics' meaning. Focusing on the lyrics about Dracula and his \"Transylvania twist\" highlights the cartoonish stereotypes of Dracula and his Transylvanian heritage, the use of parody and satire, and the shift towards character comedy. "
         }
       ]
     },
@@ -299,6 +291,6 @@
   "slug": "custom-page-with-clips-no-annotations",
   "created_at": "2025-09-22T05:35:56.560Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-01-28T20:55:45.987Z",
+  "updated_at": "2026-01-28T20:58:49.881Z",
   "updated_by": "raymondhyser"
 }
