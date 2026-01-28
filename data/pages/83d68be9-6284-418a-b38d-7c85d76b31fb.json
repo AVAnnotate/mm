@@ -1,6 +1,27 @@
 {
   "content": [
     {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -38,14 +59,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The following clips of Bobby Picket's performances of "
+          "text": "The following clips of Bobby Pickett's performances of "
         },
         {
           "text": "Monster Mash",
           "italic": true
         },
         {
-          "text": " on American Bandstand (1964) and New York at Night (1991), and Ross Higgins' performance of the song on ABC for Kids (1991) will be used to explore the changing meaning behind a specific lyric of the song. The clips are arranged to allow a side-by-side comparison of Bobby Pickett's two live performances, separated by 27 years. The clip of Ross Higgins' rendition appears below Bobby Pickett's performance for ease of comparison and to highlight the changes in meaning of the lyrics. Focusing on the lyrics about Dracula and his \"Transylvania twist\" highlights the cartoonish stereotypes of Dracula and his Transylvanian heritage, as well as the use of parody and satire, and the shift towards character comedy. "
+          "text": " on American Bandstand (1964) and New York at Night (1991), and Ross Higgins' performance of the song on ABC for Kids (1991) will be used to explore the changing meaning of a specific lyric. The clips are arranged to allow a side-by-side comparison of Bobby Pickett's two live performances, separated by 27 years. The clip of Ross Higgins' rendition appears below Bobby Pickett's performance for ease of comparison and to highlight changes in the lyrics' meaning. Focusing on the lyrics about Dracula and his \"Transylvania twist\" highlights the cartoonish stereotypes of Dracula and his Transylvanian heritage, as well as the use of parody and satire, and the shift towards character comedy. "
         }
       ]
     },
@@ -239,6 +260,35 @@
           "text": "There is a noticeable shift in Ross Higgins' performance compared to Pickett's performances. Aside from the larger-scale production with costumes, sets, and dance numbers, Higgins' performance also of these specific lyrics highlights a shift from satire to character comedy. The specific cultural reference to the Twist, although likely to be familiar to parents in the 1990s, likely would be missed by children watching ABC for Kids. Rather than a commentary on the rise and fall of dance crazes, Higgins' performance becomes just a comical complaint from Dracula. The over-the-top Dracula voice by Higgins, coupled with the child playing Dracula wildly shaking his fist, creates a fun cartoon figure rather than a symbol of the outdated. The lyrics become less of a commentary on rapidly changing cultural crazes. Instead, it simply enriches the playful monster party story. "
         }
       ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Custom page with clips (no annotations)",
@@ -249,6 +299,6 @@
   "slug": "custom-page-with-clips-no-annotations",
   "created_at": "2025-09-22T05:35:56.560Z",
   "created_by": "raymondhyser",
-  "updated_at": "2025-09-30T14:56:11.660Z",
+  "updated_at": "2026-01-28T20:55:45.987Z",
   "updated_by": "raymondhyser"
 }
