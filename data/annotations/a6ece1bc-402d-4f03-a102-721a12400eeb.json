@@ -1,5 +1,1814 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "uuid": "aed54a0f-7644-46e7-b752-c4d9d40b735b",
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 0:03\nThinker, no, just water. Where you coming from? I'm coming from the Rosie O'Donnell Show. And followed by a really nice walk around Washington Square Park, where I used to walk when I lived, yes, and I went and I looked at the building, and I couldn't even remember walking in and out of the door. Strange."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ff49d8b3-22e0-4357-9a78-6c3b417c4e0f",
+      "start_time": 1,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 0:32\nThis was the late 60s. Yeah,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c6abcbe1-0543-4606-bcc6-7570a5a58da3",
+      "start_time": 2,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 0:36\nI was living in with my boyfriend, who I later married in his dorm room in the NYU student housing, which is, you know, right on the park, and we looked out over the treetop. So she was very nice, because we've lived"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "876ae37b-2e1f-40ff-a8f1-9fbfa692e296",
+      "start_time": 3,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 0:51\ndown the village for a long time and spent a lot of time since when I said was very young, around Washington Square Park, and then down to Washington Square village, we still all the time. Yeah, just what it was struck. In fact, this was"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f202e70d-1832-4d66-9561-50f256603c73",
+      "start_time": 4,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 1:06\nprobably passing each other all the time. If you know it, I'm gonna go wash my hands because I've been pollinated. You know where the restroom is. It's probably gonna be back there. Okay, be right back."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3dc09d83-c3e0-48e5-8084-17aff2c49a72",
+      "start_time": 5,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 3 1:22\nTrainings, your daughter born again?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "748f8653-d126-47ba-81fc-89b8933faacf",
+      "start_time": 6,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 1:34\nShe always says, I forget"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "01b5e6c8-9c88-4962-8b43-35791de9de04",
+      "start_time": 7,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 1:37\n6969 Yeah, but younger than myself, born"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "90854302-b3f3-40e3-bdb8-dd6fd08cbd06",
+      "start_time": 8,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 1:42\nin 67 67 Oh, yeah, again, we should be down"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "df8e9a1f-c912-4db6-816f-461e176bad5d",
+      "start_time": 9,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 1:46\nthere. We might have actually passed anyway."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4d597e89-427c-4400-9bfd-0c2964c96457",
+      "start_time": 10,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 2:00\nI was curious as a"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3b34cb12-79bd-498b-b8f3-b5ccf70e67f3",
+      "start_time": 11,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 2:04\nwe survived. It all"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "17ceeefe-842d-4917-96b6-72467ce46cf4",
+      "start_time": 12,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 2:07\nsurvived a lot, as a matter of fact. So I think about those early days in 1970 we were next door to the house that flew up on West 11th street where the weathermen had their explosion. They were bombed out of our house that very day. In fact, the wall just fell down"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "239e4590-9da9-480b-8ee1-5825ef53fffa",
+      "start_time": 13,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 2:27\nfrom our like the end of the 60s, really,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ab0cc99b-69c4-4061-a91f-6dfd73e117ad",
+      "start_time": 14,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 2:31\nright next door, next door, co bomb factory."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "19f16762-6a6c-4249-84cb-16dab398c4b3",
+      "start_time": 15,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 2:36\nThat was a shock. It was a shock for my wife and for Dustin Hoffman's wife, they're both outside the building. When it looked in their face, she just picked up our sign at bursary school. And it was literally the end of the 60s and the end of a lot of well, not to get a one digression, but I must say, the event itself, then and thereafter had a strong effect, not only on my family, but also depending on the neighborhood. About the 60s, to so many of us, if we weren't radical, we certainly were borderline radical. And after that, there was a lot of second thinking about whether, whether the violence had any justification. Their mission, when they blew up the house accidentally, was to blow up the library at COVID University, but you got through so much."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ad455c6c-9312-4d1b-b61b-cdcc58bc5340",
+      "start_time": 16,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 3:26\nYeah, the violence is not going to work. I mean, I don't care who's doing it. I mean, there's just no into it so, but that must have been such a shock, because Home is where you feel so safe."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6f5c3504-00c0-4206-9ccd-fd3a13bec9b1",
+      "start_time": 17,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 3:38\nWell, that's part of it,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1f22dfd2-21c5-416a-a31a-4c171ca7d3de",
+      "start_time": 18,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 3:41\nyour private home. But"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c28151b2-c33a-4e86-bfe4-007f72c2b6d0",
+      "start_time": 19,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 3 3:42\nit's"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0af6d493-4fb4-41ab-bd0b-d903ac6de15a",
+      "start_time": 20,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 3:47\na strong team in your work. I mean,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b448f6d5-c804-46b3-b6a7-2d376ab5d8c2",
+      "start_time": 21,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 3:50\nyour opposition to violence is,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a9ab5d89-dcd8-46b6-8962-c587e8b5daba",
+      "start_time": 22,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 3:55\nwell, yeah, I know in my own life what suffering causes. And in a way, it just isn't radical enough. Violence is not radical enough."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4ea6f529-0bcd-469d-ad5b-08bd639b95f8",
+      "start_time": 23,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 4:09\nRadical enough social challenges. Well, actually,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7857b47a-1e13-4db8-b29a-841272c2e331",
+      "start_time": 24,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 4:13\nlove is more radical than violence, and it's more subversive generally, and it's harder to do, and that's why people would rather, you know, have violence much easier than actually, you know, coming to love some somebody, or just to be compassionate. You know, it takes a lot more courage. Let"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b9e12262-662e-4525-bb28-7f4f19e21ec3",
+      "start_time": 25,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 4:34\nme also say this, it's"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cc931acc-6384-4ce7-8ea9-fe49c5d2f869",
+      "start_time": 26,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 4:40\nsometimes hard to understand. When I read your work, the fact that you can love people who have been vital, brutal, perhaps even evil. You talk, for example, about your grandfather who was a devil, who say this in some way and yet. Child, I adored him. Not only forgive him, I guess"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a689f493-6d04-4e2a-b4b3-37bff5f57757",
+      "start_time": 27,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 5:05\nI adored him. I adored him, and I still do. It's possible, because he was a devil before I knew him, it was a lot harder to forgive my father, whom I knew, you know, in his devilness, but with my grandfather, and that taught me that people do change, and they change radically, because the man that used to shoot his gun at my grandmother and chase her through the corn fields was not the man I knew. The man I knew was very mellow, very thoughtful, very loving of me. Very happy to have me around, and very civil to her. So this was someone that I knew about, almost as that earlier part, almost as a legend. And you heard the stories before this. Oh, yeah. Oh, I mean yes, and they were told with such gusto, which was shocking to me, even as a child. Yeah, I mean, the I couldn't really laugh, I have to say, because I love my grandmother, and so in the telling of a story about her being chased by this wild man who was an alcoholic, I didn't understand that either. For many years he was an alcoholic, and alcoholism had actually come into our family through our Irish wine, the Irish, Scottish Irish drunkards, overseers, which is another story you know about just how you know you get certain traits in your family anyway. But I loved her. She was a really sweet, long suffering patient, good cooking woman, and so when people were laughing at her fear, I felt a chill."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "68f8e11f-4341-4351-8480-ab4110f9742b",
+      "start_time": 28,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 6:56\nIt was a real fear. Oh, absolutely,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "610463d7-6330-4432-881b-fab734c38cae",
+      "start_time": 29,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 6:58\nit was real."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "66ee666a-a9f1-4374-b465-c747f69f7ec6",
+      "start_time": 30,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 7:02\nSo I feel that I was born partly to heal that, to look at it and to see, you know,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d7d9073b-fb80-413c-8aea-c2ba8b6cde07",
+      "start_time": 31,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 7:13\nwho they both were in essence,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7281c534-ebb5-4cd3-b42d-76ff0d8450bf",
+      "start_time": 32,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 7:17\nand I think who he was in essence, non alcoholic and none crazy and none violent. Was a basically thoughtful person"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e91259bc-604b-47b3-b38c-9f67370b56ae",
+      "start_time": 33,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 7:30\nand a gentle person,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0538f9c2-e2ba-4641-a15d-6a0852ffa11d",
+      "start_time": 34,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 7:31\nand he was a role model for Mr. COVID. Yes, that's very interesting. I find it a lot that you seemingly not only forgive but also love. And I suppose just moving ahead to the new book,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bbf00464-d7ce-4427-af92-83f777c98da5",
+      "start_time": 35,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 7:50\nwhich obviously to me, is inspired by your marriage,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e3fa3ac1-51a6-4a27-a1f7-bd6967bb3a05",
+      "start_time": 36,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 7:54\nwhich was terribly happy, you say, and"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8d86ffae-a10a-4f66-b185-4b6c33f210f2",
+      "start_time": 37,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 7:58\nthen over and ready being friends and loving friends or whatever. It's even hard to comprehend that. I guess"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "df60491e-9b50-436c-96be-6d7e427afef2",
+      "start_time": 38,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 8:05\nhe's a very good man. It's a very, very good person. So it's not really hard. And I think what's really hard is just that you could care a lot for someone and not want to live with them anymore, and your life is calling you somewhere else, and that's pretty much what happened, on top of just being really exhausted from being in the situation that we're in. You know, it was too much. We should have known better, but we did. We were young, and we thought that we could, and we did. I mean, we changed Mississippi a lot. I mean, especially my husband, former husband and his colleagues, you know, they saw that a lot of the desegregation, new laws were enforced. They represented people like people who really reminded me so much of my parents and grandparents, really poor people, you know, for the first time, had someone to defend them. So it took its toll, but there's no blame, and that's what"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0bd7a1a3-cffc-4e3c-99f9-111b22aba067",
+      "start_time": 39,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 9:15\nthis is the question, I guess what? Why isn't there?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4a20a13a-cad8-4400-af09-7215a849451d",
+      "start_time": 40,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 9:20\nBecause everybody gets really tired. And I have, I have learned in my own life that, you know, and my daughter will actually testify to this, because I'm very patient and very thoughtful myself and loving with people. And you know, I will be there time after time. But if I'm tired, if I'm really exhausted, I lose all of that, and I become this other person who is just really withdrawn, really cold, really not there for whatever is happening. And I've noticed in my life How shocking This is. Is for the people that I live with, it is, you know, and I didn't even recognize it for a long time, just how strange it is when someone that you think you know and you feel comfortable with, and you expect them to be a certain way, and then, you know, they just kind of disappear. And what that is for me, and I think for many people, it's not some that you're suddenly occupied by some evil spirit, it's just that you're tired and you should just go to the beach, you know. Or you now I just take a nap, you know. So part of it really is about just learning to be more compassionate towards yourself, you know, and holding yourself with a lot more patience, holding yourself with that patience, you know, and not instantly saying, Oh God, you know, I'm this awful person. Going back"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "443496fe-d42f-461f-b565-56094c654d9c",
+      "start_time": 41,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 10:53\nto your grandfather for a moment with him, I was supposed it wasn't a matter of being tired, but partly as a matter of the drunk. Well, yes, I would say also the acceptance the traditional movement, this was an allowable approach to those times in that situation."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d23c322d-a501-4a2f-bf21-0712f6b82cd7",
+      "start_time": 42,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 11:08\nWell, it was because he had no other outlet for this kind of anger. If he had been angry at the white people, who were actually the basic oppressors, he would have been killed right away, and he knew that. And so his anger got twisted. And it was the very, you know, extremely remarkable African American man who was able to see what was, what that was, that you, that you, you had to be very careful not to misdirect anger. If you were angry at the abuse of the overseer or the boss or whoever he was, to find some other way to deal with it, rather than hurting your family. This is a very difficult thing. It was true in your"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2ee58491-704a-434a-a87b-f72bcae40ed1",
+      "start_time": 43,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 11:59\nfather's day as well as grandfather, oh, yes, right. And"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "de5b110b-e2cb-4d78-9d41-f4fc0f97394f",
+      "start_time": 44,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 12:04\nsome people handled it. You know, there were a few men who were known to be men who, no matter what, they never, abused their family, never, and they were, of course, really looked up to do."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2b7deaf1-b27e-4b57-a70e-8310b151527d",
+      "start_time": 45,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 12:33\nWhat do you recommend? Everything? Oh, good, okay,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cc9fe6ba-3281-48c8-b065-5198bbe8c0a3",
+      "start_time": 46,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 12:38\nexcept for the spicy Fried shrimp. That's the one who's around. Oh."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ee18377c-ea31-438d-bfb6-54d9132f364a",
+      "start_time": 47,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 4 13:06\nTo emphasize the specials that we have today, recommend the CNC scallops with a celebrity puree that's been emulsified olive oil still has a consistency of creaminess, cream sauce, not as heavy beans, chanterelle and shiitake mushrooms together. I think I want that. It's wonderful. Yeah, we also have a house made veal, braised, not in that case. Wait,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "73ebf54f-af3d-4bf0-a5ac-dd0281e2a646",
+      "start_time": 48,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 13:49\nwell, does this come with some kind of vegetables"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "72d462f7-0e19-446f-a316-0bf3fb9cd898",
+      "start_time": 49,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 4 13:52\nand the mushroom combination? Oh, yeah,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5c017b20-ab0d-429c-a204-583342b14300",
+      "start_time": 50,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 13:55\nokay, if you have a small green salad,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a190bae1-a71f-47e4-aed3-3d21f2a3a760",
+      "start_time": 51,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 14:01\nanything else you drink, an iced"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cd6a18c8-45d0-4142-9f64-771f7cc44849",
+      "start_time": 52,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 14:02\ntea. Iced tea to be good."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1d357234-8e43-46be-bdb4-4d4d3a027ecf",
+      "start_time": 53,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 14:12\nAnyway, the new book, I realized that some of the stories were go back to the earlier, mid 80s than today. What? What"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "617cb23c-895c-4893-9e97-06d4e1e7d90a",
+      "start_time": 54,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 14:22\nprovoked you to do it now? What brought it together?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "96a94656-d998-45c5-8462-4dee43d1965c",
+      "start_time": 55,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 14:26\nYou know, it was sitting on my desk for a while, all except the last story, and I was not going to publish it, and I was in Hawaii, and I was talking to a friend, and she said, I'm really waiting for your next book. And I said, Well, it's there on my desk. And she said, what this was? Mililani Trask, I don't know if you know any Hawaiian politics, but she is a very fierce defender of the rights of Hawaiian people. And it started me thinking about a. Completing it, and how to complete it, and what the significance of it is, you know, and I saw that in"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8d4eaf8b-92cc-4fe3-9096-e714695bcb50",
+      "start_time": 56,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 15:11\nwriting the memoir about my marriage,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fe176c98-0d8c-4373-8084-d898a475f23d",
+      "start_time": 57,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 15:16\nthe other stories seem to be growing out of it. They represent. In a way that the freedoms and the difficulties that I encounter after leaving that marriage, which have been such a cocoon, in many ways, my marriage was the marriage was because"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ea445b15-5bbf-4527-b900-4d83967acaa0",
+      "start_time": 58,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 15:38\nthe man that I had married had been so"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b73993eb-4b81-4bfa-a5de-f322c8020ab4",
+      "start_time": 59,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 15:44\nyou know, just very protective and very present and very loyal in many ways. You know, just very dependable. And so, after that marriage, and after for him, it was impossible to to maintain a friendship, which is Aquarius, an aquarium friendship is first. It comes before marriage, even you know."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d6d126f6-bbe5-4a1f-9811-3b75a2bcbaaa",
+      "start_time": 60,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 16:08\nBut anyway, so"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b7f75a1d-05f1-494d-9d65-65a734ec2892",
+      "start_time": 61,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 16:10\nthe stories I could see represented the freedom, but also some of the terrors you know, of being outside of a marriage that had been very cocooned by at least in his early stages. Did you"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "67ae2615-8205-4ca9-969d-13493c6d745d",
+      "start_time": 62,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 16:28\never think about connecting the characters and keeping the same names of the characters, whether factual or not, more novelistic?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a2db368c-cf58-4ca4-91c4-d1bcf5fe8c52",
+      "start_time": 63,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 16:35\nNo, because"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6d2893db-5088-478c-999b-54a96403d41e",
+      "start_time": 64,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 16:37\nI thought about doing that. I didn't. It didn't feel right. I wanted it to be just more the way it was. Are they different people? Some of them are, but of"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dbe8f484-7c86-4a3a-93e6-da677dc31d5a",
+      "start_time": 65,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 16:48\ncourse, some of them are. I mean, they are just,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "60640b9f-cbba-4747-9335-fdd1a5c9cee1",
+      "start_time": 66,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 16:52\nin fact, my I was in a very long relationship with Robert Allen, who is still the editor of Black scholar, and I sent it to him to read, and he was chuckling. He was saying, how, you know, some of the people are the same, people with different names and different professions, but that's just the way they were reading. And I also wanted to write stories about things in my life that I just appreciated a lot. For instance, the story about cuddling, this was actually something that I did do in a relationship with someone that the whole idea of learning to hold people, you know, just to hold them, just to and that's it. I mean, you just hold them. And I actually taught this to a lover, and he loved it took him a long time to get it, but it's wonderful just to hold someone, just to, you know, come in, you're feeling like, you know, the end of the world, you've been harassed or fired or whatever. And maybe making love is not really what you want, you know, but being held is so cuddling is, is something that I would like to encourage as a form of caring that is extremely restorative,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fdd61b83-2b16-4691-92d6-949c7ef589e2",
+      "start_time": 67,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 18:29\nolive oil as well. Is that also yes,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "75550681-f06f-4b2e-b6ef-0bfe434972c2",
+      "start_time": 68,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 18:31\nabsolutely, absolutely, and the little things that we, that we do for each other, when we, when we love each other can have such healing, I mean, and you never really know sometimes where that's going to happen. Who would think that the fact that someone liked the way you smelled when you had oiled yourself with olive oil, loved the way you look shiny with olive oil. You know, how would you know that that would be such a healing thing, that you would suddenly feel seen, accepted, loved, natural. You know that you, that you, that someone could see you and love you in your naturalness, and what an increase, then, is the degree of intimacy you would have with such a person. I mean, just that little thing, such a wonderful so that was part of why I wanted to write these stories like this. The"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b42a86ca-cdaa-45ba-852d-fc6f2d31d94a",
+      "start_time": 69,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 19:41\nfirst story came last, later. In any"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9e4d4816-4305-44b5-8bcb-1da3af4941e9",
+      "start_time": 70,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 19:48\ncase, it did, because, you know, it came after, you mean, the memoir, The Little Yes, yeah, it came, yes, I think so, except for the Brotherhood. Be saved that came absolutely last, because I, by then, was ready to transform all of this into a story that was just fiction, just art, but with the spirits of my parents and my spirit in it,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cb85455f-107f-4faf-9f38-a7d071a12f39",
+      "start_time": 71,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 20:22\nas we might have been, had we done these things."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "463f5c75-33f1-4c24-b9c6-64ecb18c1d9d",
+      "start_time": 72,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 20:25\nCould you describe what the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "39898406-dae2-451b-847e-ecddb5a81900",
+      "start_time": 73,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 20:29\nadmittedly they are somewhat, or are different characters along the way, but sort of the arc of the characters, how they were changed from 1984 or whatever the first one was till now, in your eyes, is there really a big change, a big change in this"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3a12cc01-7c0d-480e-a028-68c759f762e8",
+      "start_time": 74,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 20:44\nis change in, you know, how they how they grow and how they perceive the world? I'm thinking now let's see of SUNY and Ann, who, in the 60s, were in love with the same man. One was married to him, and the other one wanted to be with them. And then they had this whole thing with, you know, doing the 60s thing, where you all go off together, you the, you know, the other woman, the man and the baby."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6ae670e6-6579-493e-879b-d41e2ab14e1b",
+      "start_time": 75,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 21:18\nYou're speaking from experience, right? Oh, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f9a87b89-7e2f-4430-8f41-4cd836e66c06",
+      "start_time": 76,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 21:26\nI mean, we tried everything. It was just so amazing,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ec35b92c-4e40-481e-b8b6-84e26273cf20",
+      "start_time": 77,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 21:37\nokay? And then years later, you know, you look back on that and it's, it's, you know, it was crazy. I mean, it was, it was but, but really good crazy. I mean, I don't mean, you know, it's, it's a good thing to have done, because we were trying to see if we could do this,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "33b00292-afcc-48e1-adf4-0229c0131720",
+      "start_time": 78,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 22:01\nyou know, this transformation"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "97ef78e4-0ccf-4c38-830f-763333002097",
+      "start_time": 79,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 22:04\nthat always had failed around us. We'd never seen anybody do that. We never know anybody who, you know, if you fell in love with someone's husband, and then you, you know, talk to the wife, and she said, Well, maybe we can all work this out. And, you know, it's all very you know, but then years later, they come back around and they're older and and they realize that, you know, whatever they were working out with this man, they've done it, and now they're free. I mean, they're free and they're going on to do something else. So one of them is, you know, going to listen to Guru Mai and loves, loves, that life, the meditative life and the guru life. And the other one is telling about this young man who has appeared out of nowhere and that she is having a wonderful time with and in a platonic relationship. I mean, they just go on."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bc5d4bdc-ac73-4f1e-aa3f-23f162fba952",
+      "start_time": 80,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 23:07\nSo that's the change I see. In"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e5ce7b98-58a8-47d6-964a-b28cfe94302c",
+      "start_time": 81,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 23:14\nany case, you have thought about publishing the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4233ebf4-0bf8-4092-99ce-7a7f54673c03",
+      "start_time": 82,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 23:17\nbook for a book for a while. It was sitting there. Oh, and then the other thought was that"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7f41a23f-7a9a-41a8-b3d5-b33f29587778",
+      "start_time": 83,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 23:27\nI'm not sure I want to keep writing. I think that"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f6cafc0a-cc3e-4606-8d68-56a2b419716e",
+      "start_time": 84,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 23:34\nI feel like this is the end of a 30 year cycle, and it's a really good time for me to think about"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "94cb8d79-2d77-41f7-9ddd-44ec0f3f5301",
+      "start_time": 85,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 23:42\nwhat I want to do for the other 30 years. Yes,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7436c71d-58a2-48d3-b227-a466f02ed9c5",
+      "start_time": 86,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 23:49\nback you started writing 30 years ago, publishing, yeah,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7694e68f-845d-4d8a-8705-b311779635f4",
+      "start_time": 87,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 23:53\nand it's been quite a while. So I felt that part of this is to sort of complete that cycle, and it really does. And then, before that, it was the 68 my first poetry, yeah, so it's 30 years, Yeah, amazing. I mean, that's a lot of writing. So, yeah. So I'm, you know, I'm, I spend a lot of time now studying the Dharma and"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7dfe87be-dca6-4a00-b6c8-117dbbaa439e",
+      "start_time": 88,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 24:30\nand I'm just really,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9bb93db5-9133-490f-913d-b1a14060a98f",
+      "start_time": 89,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 24:34\nI'm really happy sitting,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9f508935-d81b-4016-9552-fb957dc1e9e4",
+      "start_time": 90,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 24:38\nyou know, contemplating what, what is? What is the thing inside now? What is that? What is the real internal imperative? Now, you know, because I don't want to be doing something that no longer really i. It moves me, and I want to be sure that whatever is coming next is as essential as what I feel has gone before. I mean, everything that I have written in my life has felt really"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2597cec2-657c-4c77-93ae-5b38ef72f0be",
+      "start_time": 91,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 25:15\nI feel like I had no choice,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a77d7115-08cc-47ad-a27b-d2fad801fbac",
+      "start_time": 92,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 25:19\nno choice. Yeah,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "15139d42-478d-497d-ba8b-f2d805d759d2",
+      "start_time": 93,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 25:22\nand I have to say, I like that. I like that feeling, and I don't want to enter another cycle of writing, because I know the commitment of text without feeling that. So I'm just gonna see"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "de091e13-65fb-4881-ab75-adc93bcb4189",
+      "start_time": 94,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 25:40\nuse the expression, no choice, but something that came across one of the books when you said you called yourself a medium,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dce6f097-b826-4938-84bc-e4c448b9f8ac",
+      "start_time": 95,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 25:50\nwhether you feel that as well, I mean, like,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f41701d1-4179-4a67-b388-489acc734cf5",
+      "start_time": 96,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 25:55\nWell, what I was trying to convey, there's not this thing about channeling or, you know, no work just sitting there. It all takes a lot of work. But what I was trying to convey was that, especially in the color purple, and to some degree, in the temple of my familiar, I really fell into a kind of grace. I really felt I was in a kind of grace that permitted"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0ae6b176-a2f7-42ca-b619-2113d1e6f405",
+      "start_time": 97,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 26:27\nme to faithfully"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8d6a12da-293d-443d-a081-dfad46e9e716",
+      "start_time": 98,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 26:35\ncreate what was really real about these people, you know, and it felt like mediumship. You know, it felt so"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "74de3890-56de-426d-b414-f985f93b9a08",
+      "start_time": 99,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 26:52\nit just felt like they were there"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "94266200-ae3d-4535-9b92-c57051c343bf",
+      "start_time": 100,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 26:58\nwas the color purple, handed down to you. No,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e40c52fe-d258-406f-9d7b-931531f8ffcc",
+      "start_time": 101,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 27:01\nit's not like it's handed down, but it feels like my ancestors were just really happy, just really happy, and really there, and I woke with them, and I slept with them, and I just felt like, you know, just this absolute feeling of being lucky in that connection, that being able to feel them. And I actually felt felt like, you know, both their child and, in some ways, their servant. Because I felt like, you know, I changed my life entirely in order to to hear, you know, I was just living here in New York there. I lived for a while in the country, so I could really hear that"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "68eb42be-d3a7-4830-b863-6379a57afdcb",
+      "start_time": 102,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 27:56\ncolor purple"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1448468c-c49f-447a-9b5e-ca8eb3fd77b7",
+      "start_time": 103,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 27:59\nsaid at one point that you came while you were while you were swimming, while you were running, yeah, it sounded quite almost mystical to them. It was,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0ddc422f-efdf-4a7a-b4bf-4337a5af9323",
+      "start_time": 104,
+      "end_time": 105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 28:12\nI was so happy. Could you go back? Remember the actual moment when you began?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "17068198-9681-41ad-a001-75618cbd0c3d",
+      "start_time": 105,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 28:18\nI think I was in New York, and"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d942ca91-35c3-4235-89d8-030c75202b1d",
+      "start_time": 106,
+      "end_time": 107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 28:22\nI was, you know, I was an editor at M's magazine for a while,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5d5a8dc9-855d-4d0a-84f0-77279a04643b",
+      "start_time": 107,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 28:26\nand I guess, you know, the unconscious was trying to work it out, because I had a dream in which I was, I had bought a little tiny house in Park Slope. This is after I had left the big house with my former husband, and I tried to live in a little apartment on Garfield place. And when I bought a tiny little house, it was like 12 feet wide on a sliver of a house in Park Slope, and"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "08f21f23-ef4f-4a64-aa77-6767b61ac9ad",
+      "start_time": 108,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 28:54\nI was commuting back and forth, and"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5f369262-02e0-45d7-ae73-115e46ba6095",
+      "start_time": 109,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 29:01\nI had this dream in which I"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0b271c3e-cf52-4b5b-a411-7190ffcc8f1c",
+      "start_time": 110,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 29:04\nwent down to the basement of my house. You know, it's interesting, because Jung had a dream like this, but it might as different. Of course, went down to the basement of my house and discovered a door to the sub basement which I didn't know was there. And I went down there, and it was just filled with people making things, you know, and they were people I had never I didn't know them. They all seemed to be South American, and they were all speaking Spanish. So I think that that particular dream eventually led to the temple of my familiar where the people are Spanish became a South American. But I think I knew that the deeper layer of my consciousness was trying very much to to emerge, you know, and"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b9bc66c2-1728-4b57-ac69-370ecff539be",
+      "start_time": 111,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown Speaker 29:59\nand. Then I started to hear"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8cc6643e-bfb0-4c35-ad2d-916d124fa807",
+      "start_time": 112,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transcribed by https://otter.ai"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ],
   "set": "Default",
   "event_id": "4f589636-8a24-48a6-96a8-53671b74d4c9",
   "source_id": "6b4efd72-d8e1-4630-86af-496dd52cab5e"
